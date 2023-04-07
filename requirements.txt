@@ -1,5 +1,2 @@
-python-dotenv
-openai
-line-bot-sdk
-awscli
-boto3
+aws-cdk-lib==2.73.0
+constructs>=10.0.0,<11.0.0
