@@ -1,0 +1,5 @@
+python-dotenv
+openai
+line-bot-sdk
+awscli
+boto3
